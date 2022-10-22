@@ -54,7 +54,7 @@ while no_of_chances_2 < chances_2:
 
 
 print ("\n-----------------------------------------------\nRESULTS: ")
-[06:39]
+
 if comp_runs < your_runs:
     print ("\nYou won the Game.\n\nYour Total Runs= ",your_runs,"  [Bowls taken(Out of 20): ",no_of_chances_1+1,"]","\nComputer Total Runs= ",comp_runs,"  [Bowls Taken(Out of 20): ",no_of_chances_2+1,"]\n")
 
